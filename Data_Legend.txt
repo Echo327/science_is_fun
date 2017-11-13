@@ -1,0 +1,18 @@
+2c_euler
+euler2.txt    :    t   position_soleil(x,y,z)   pos_terre(x,y,z)
+extra2eu.txt  :    t   r(t)   v_soleil   v_terre   p_sol   p_terre   Ltot   Etot   ptot
+pe2eu.txt     :    t   r(t)
+
+2c_rk
+rk2.txt	      :    t   position_soleil(x,y,z)   pos_terre(x,y,z)
+extra2rk.txt  :    t   r(t)   v_soleil   v_terre   p_sol   p_terre   Ltot   Etot   ptot
+pe2rk.txt     :    t   r(t)
+
+10c_euler
+euler10.txt   :    t   position_soleil(x,y,z)   pos_mercure(x,y,z)   ...   pos_pluton(x,y,z)
+pe10rk.txt    :    t   min(r(t))
+
+10c_rk
+rk10.txt      :    t   position_soleil(x,y,z)   pos_mercure(x,y,z)   ...   pos_pluton(x,y,z)
+pe10rk.txt    :    t   delta_phy(planète i)
+
