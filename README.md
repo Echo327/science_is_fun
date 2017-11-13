@@ -10,9 +10,13 @@ This was a project during my last year of  Bachelor. Time was very restricted an
 Plan:
 
 (1) Translate to English.
+
 (2) Add missing components.
+
 (3) Polish.
+
 (4) Write loop to find optimum parameters. (If it can be done with this model. When we did this model we were told not to write the loops about finding optimum parameters, just to do the basic model and try to do the bonus questions if we had the time to.)
+
 
 p.s. The uploaded files are not the final versions submitted, it is the one that tried to start to materialise the answers to extra bonus questions.
 
