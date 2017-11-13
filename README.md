@@ -1,6 +1,8 @@
 # Reentry
 Re-Entry into the Earth's atmosphere of a space shuttle
 
+More information here: https://en.wikipedia.org/wiki/Atmospheric_entry
+
 MATLAB/GNU Octave
 
 First of all, yes the comments are in french because we had to submit it to a French University for evaluation, I will see if I can translate it soon.
@@ -15,8 +17,8 @@ Plan:
 
 (3) Polish.
 
-(4) Write loop to find optimum parameters. (If it can be done with this model. When we did this model we were told not to write the loops about finding optimum parameters, just to do the basic model and try to do the bonus questions if we had the time to.)
+(4) Write loop to find optimum parameters. (If it can be done with this model. When we did this model we were told not to write the loops about finding optimum parameters, just to do the basic model and try to do the bonus questions if we had the time to, as not everything was taken into consideration (see wikipedia article).)
 
 
-p.s. The uploaded files are not the final versions submitted, it is the one that tried to start to materialise the answers to extra bonus questions.
+p.s. The uploaded files are not the final versions submitted, it is the one that tried to start to materialise the answers to extra bonus questions. Provided images at this time are only to show how results are presented.
 
