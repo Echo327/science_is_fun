@@ -15,3 +15,6 @@ Author Note: The problem presented is derived from a real problem encountered du
 proposed solution:
 Difference quotient
 Menger Curvature
+
+![title](simple_solution_figure.png)
+
